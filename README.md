@@ -17,5 +17,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kunalrajputme-blip/ProblemVault/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kunalrajputme-blip/ProblemVault/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kunalrajputme-blip/ProblemVault/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
